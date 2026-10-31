@@ -57,3 +57,12 @@ Le dashboard affiche les prix en temps réel, génère des alertes automatiques 
 ### Étapes d'installation
 
 1. **Clonez le repository**
+
+
+---
+
+**Emmanuel Ruaudel — Directeur de la Transformation Numérique pour TPE/PME.**
+J'aide les dirigeants à libérer 5 à 10 h par semaine en automatisant leurs tâches répétitives (n8n · Python · IA locale).
+
+📧 [ruaudel.emmanuel@orange.fr](mailto:ruaudel.emmanuel@orange.fr) · 🌐 [rennesdev.fr](https://rennesdev.fr)
+
