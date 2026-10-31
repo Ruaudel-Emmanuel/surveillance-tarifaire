@@ -1,5 +1,7 @@
 # 📊 Surveillance Tarifaire - Dashboard
 
+Ce projet est un exemple concret de veille automatique livrée à un dirigeant : les prix concurrents surveillés 24/7, avec alertes. 
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://surveillance-tarifaire.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
